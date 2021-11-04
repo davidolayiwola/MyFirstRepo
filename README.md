@@ -1,2 +1,2 @@
 # MyFirstRepo
-Learning how use Github
+Learning how use github
